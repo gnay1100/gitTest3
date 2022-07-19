@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("hello-3");
         System.out.println("hello-3");
         System.out.println("hello-3");
+        System.out.println("pull test");
     }
 }
